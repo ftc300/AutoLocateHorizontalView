@@ -1,3 +1,5 @@
+效果图：
+![xmyd.gif](https://github.com/ftc300/autolocatehorizontalview/blob/master/gif/demo.gif)
 AutoLocateHorizontalView使用方法
 一、特点
 1. 使用方式基本和Recyclerview一样，熟悉Recyclerview的开发者非常易于使用本控件。
@@ -51,5 +53,6 @@ AutoLocateHorizontalView使用方法
 
 三、参考效果
 http://www.jianshu.com/p/c984af6a3471
+
 
 
